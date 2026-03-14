@@ -47,10 +47,3 @@ Este repositorio reúne los proyectos desarrollados en el marco de mi formación
 - Análisis y/o modelado (según el alcance del proyecto).
 - Comunicación de hallazgos: conclusiones, limitaciones y recomendaciones.  
 **Carpeta:** `Proyecto 5`
-```
-
-Si quieres, lo adapto para que quede aún más sólido y específico (sin inventar nada) con dos datos por proyecto:
-1) **Nombre del notebook principal** (archivo `.ipynb`) en cada carpeta  
-2) **1–2 líneas del objetivo real** (o pégame el enunciado/introducción de cada notebook)
-
-Si además deseas que lo actualice directamente en GitHub, dímelo y compárteme el **BlobSha** correcto del `README.md` (ahora está vacío en tu mensaje) para poder preparar la actualización con seguridad.
