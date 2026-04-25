@@ -47,3 +47,22 @@ Este repositorio reúne los proyectos desarrollados en el marco de mi formación
 - Análisis y/o modelado (según el alcance del proyecto).
 - Comunicación de hallazgos: conclusiones, limitaciones y recomendaciones.  
 **Carpeta:** `Proyecto 5`
+
+---
+
+### Proyecto 8 — Clasificación de Planes Smart vs Ultra
+**Enfoque:** Machine Learning supervisado para recomendación de planes móviles a partir del comportamiento de usuarios.  
+**Objetivo:** Desarrollar un modelo que recomiende correctamente el plan `Smart` o `Ultra` y alcance una exactitud mínima de 0.75.  
+**Actividades principales:**
+- Exploración y validación de calidad de datos.
+- Segmentación estratificada en entrenamiento, validación y prueba.
+- Entrenamiento y ajuste de hiperparámetros en Árbol de Decisión, Random Forest y Regresión Logística.
+- Selección del mejor modelo por desempeño en validación.
+- Evaluación final en prueba con matriz de confusión y prueba de cordura frente a baseline.  
+**Resultados clave:**
+- Mejor modelo: `RandomForestClassifier`.
+- Accuracy en validación: **0.8180**.
+- Accuracy en prueba: **0.8180**.
+- Baseline (`DummyClassifier`): **0.6936**.
+- Mejora absoluta sobre baseline: **0.1244** (17.94% relativa).  
+**Carpeta:** `Proyecto 8`
