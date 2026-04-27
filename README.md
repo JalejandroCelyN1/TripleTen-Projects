@@ -81,4 +81,5 @@ Este repositorio reúne los proyectos desarrollados en el marco de mi formación
 - Mejor modelo: `RandomForestClassifier` con `class_weight='balanced'` (200 arboles, max_depth=10).
 - F1 en test: **0.629**.
 - AUC-ROC en test: **0.863**.
-**Carpeta:** `Proyecto 9`
+**Carpeta:** `Proyecto 9`  
+**Detalles:** ver [Proyecto 9/README.md](Proyecto 9/README.md)
