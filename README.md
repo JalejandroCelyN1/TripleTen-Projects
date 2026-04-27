@@ -1,67 +1,77 @@
+# TripleTen-Projects
+
+Compilacion de proyectos de TripleTen.
+
 ## Proyectos
 
-Este repositorio reúne los proyectos desarrollados en el marco de mi formación en TripleTen. Cada carpeta contiene el material correspondiente (principalmente notebooks en Jupyter) con el desarrollo, análisis y conclusiones de cada entrega.
+Este repositorio reune los proyectos desarrollados en el marco de mi formacion en TripleTen. Cada carpeta contiene el material correspondiente (principalmente notebooks en Jupyter) con el desarrollo, analisis y conclusiones de cada entrega.
 
 ### Proyecto 2 — Data Wrangling
-**Enfoque:** Preparación y depuración de datos para su análisis.  
-**Alcance general:** Revisión de calidad, limpieza y transformación de datasets para garantizar consistencia y usabilidad.  
+**Enfoque:** Preparacion y depuracion de datos para su analisis.  
+**Alcance general:** Revision de calidad, limpieza y transformacion de datasets para garantizar consistencia y usabilidad.  
 **Actividades principales:**
-- Inspección inicial de datos (estructura, tipos, consistencia).
+- Inspeccion inicial de datos (estructura, tipos, consistencia).
 - Tratamiento de valores ausentes, duplicados y formatos inconsistentes.
-- Normalización y transformación de variables según el objetivo del análisis.
-- Validaciones finales y generación de un dataset listo para análisis posterior.  
+- Normalizacion y transformacion de variables segun el objetivo del analisis.
+- Validaciones finales y generacion de un dataset listo para analisis posterior.  
 **Carpeta:** `Proyecto 2`
 
 ---
 
 ### Proyecto 3 — Data Wrangling (Parte 2)
-**Enfoque:** Profundización en técnicas de preparación de datos y estandarización avanzada.  
-**Alcance general:** Aplicación de un flujo de limpieza más robusto, con énfasis en reglas de negocio, consistencia y trazabilidad del proceso.  
+**Enfoque:** Profundizacion en tecnicas de preparacion de datos y estandarizacion avanzada.  
+**Alcance general:** Aplicacion de un flujo de limpieza mas robusto, con enfasis en reglas de negocio, consistencia y trazabilidad del proceso.  
 **Actividades principales:**
-- Refinamiento de la limpieza y transformación realizada en etapas previas.
-- Estandarización de variables y criterios de validación.
-- Preparación de datos orientada a análisis o modelado (según aplique).
-- Documentación de decisiones y criterios de tratamiento de datos.  
+- Refinamiento de la limpieza y transformacion realizada en etapas previas.
+- Estandarizacion de variables y criterios de validacion.
+- Preparacion de datos orientada a analisis o modelado (segun aplique).
+- Documentacion de decisiones y criterios de tratamiento de datos.  
 **Carpeta:** `Proyecto 3`
 
 ---
 
-### Proyecto 4 — Análisis Estadístico de Datos
-**Enfoque:** Análisis estadístico aplicado para extraer conclusiones y sustentar decisiones con evidencia.  
-**Alcance general:** Exploración cuantitativa, formulación de hipótesis y evaluación estadística de los resultados.  
+### Proyecto 4 — Analisis Estadistico de Datos
+**Enfoque:** Analisis estadistico aplicado para extraer conclusiones y sustentar decisiones con evidencia.  
+**Alcance general:** Exploracion cuantitativa, formulacion de hipotesis y evaluacion estadistica de los resultados.  
 **Actividades principales:**
-- Análisis exploratorio con métricas y visualizaciones.
-- Definición de hipótesis y selección de pruebas estadísticas apropiadas.
-- Cálculo e interpretación de resultados (p-valores, intervalos de confianza u otros).
-- Conclusiones y recomendaciones basadas en evidencia estadística.  
+- Analisis exploratorio con metricas y visualizaciones.
+- Definicion de hipotesis y seleccion de pruebas estadisticas apropiadas.
+- Calculo e interpretacion de resultados (p-valores, intervalos de confianza u otros).
+- Conclusiones y recomendaciones basadas en evidencia estadistica.  
 **Carpeta:** `Proyecto 4`
 
 ---
 
 ### Proyecto 5 — Proyecto Integrado
-**Enfoque:** Desarrollo integral de un caso práctico, combinando preparación de datos, análisis y síntesis de resultados.  
-**Alcance general:** Implementación de un flujo completo de trabajo, desde el entendimiento del problema hasta conclusiones accionables.  
+**Enfoque:** Desarrollo integral de un caso practico, combinando preparacion de datos, analisis y sintesis de resultados.  
+**Alcance general:** Implementacion de un flujo completo de trabajo, desde el entendimiento del problema hasta conclusiones accionables.  
 **Actividades principales:**
-- Definición del objetivo y criterios de evaluación.
-- Preparación de datos (limpieza, transformación y validación).
-- Análisis y/o modelado (según el alcance del proyecto).
-- Comunicación de hallazgos: conclusiones, limitaciones y recomendaciones.  
+- Definicion del objetivo y criterios de evaluacion.
+- Preparacion de datos (limpieza, transformacion y validacion).
+- Analisis y/o modelado (segun el alcance del proyecto).
+- Comunicacion de hallazgos: conclusiones, limitaciones y recomendaciones.  
 **Carpeta:** `Proyecto 5`
 
 ---
 
-### Proyecto 8 — Clasificación de Planes Smart vs Ultra
-**Enfoque:** Machine Learning supervisado para recomendación de planes móviles a partir del comportamiento de usuarios.  
-**Objetivo:** Desarrollar un modelo que recomiende correctamente el plan `Smart` o `Ultra` y alcance una exactitud mínima de 0.75.  
+### Proyecto 7
+**Enfoque:** Ver documentacion y notebook en la carpeta del proyecto.  
+**Carpeta:** `Proyecto 7`
+
+---
+
+### Proyecto 8 — Clasificacion de Planes Smart vs Ultra
+**Enfoque:** Machine Learning supervisado para recomendacion de planes moviles a partir del comportamiento de usuarios.  
+**Objetivo:** Desarrollar un modelo que recomiende correctamente el plan `Smart` o `Ultra` y alcance una exactitud minima de 0.75.  
 **Actividades principales:**
-- Exploración y validación de calidad de datos.
-- Segmentación estratificada en entrenamiento, validación y prueba.
-- Entrenamiento y ajuste de hiperparámetros en Árbol de Decisión, Random Forest y Regresión Logística.
-- Selección del mejor modelo por desempeño en validación.
-- Evaluación final en prueba con matriz de confusión y prueba de cordura frente a baseline.  
+- Exploracion y validacion de calidad de datos.
+- Segmentacion estratificada en entrenamiento, validacion y prueba.
+- Entrenamiento y ajuste de hiperparametros en Arbol de Decision, Random Forest y Regresion Logistica.
+- Seleccion del mejor modelo por desempeno en validacion.
+- Evaluacion final en prueba con matriz de confusion y prueba de cordura frente a baseline.  
 **Resultados clave:**
 - Mejor modelo: `RandomForestClassifier`.
-- Accuracy en validación: **0.8180**.
+- Accuracy en validacion: **0.8180**.
 - Accuracy en prueba: **0.8180**.
 - Baseline (`DummyClassifier`): **0.6936**.
 - Mejora absoluta sobre baseline: **0.1244** (17.94% relativa).  
