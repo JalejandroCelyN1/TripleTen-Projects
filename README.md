@@ -93,3 +93,10 @@ Este repositorio reune los proyectos desarrollados en el marco de mi formacion e
 - AUC-ROC en test: **0.863**.
 **Carpeta:** `Proyecto 9`  
 **Detalles:** ver [Proyecto 9/README.md](Proyecto 9/README.md)
+
+---
+
+### Proyecto 10 — Seleccion de regiones para nuevos pozos (OilyGiant)
+**Enfoque:** Seleccion de regiones para nuevos pozos.  
+**Carpeta:** `Proyecto 10`  
+**Notebook principal:** [execution/OilyGiant.ipynb](Proyecto 10/execution/OilyGiant.ipynb)
